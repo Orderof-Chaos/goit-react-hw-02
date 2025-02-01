@@ -1,5 +1,3 @@
-import { css } from "./Feedback.module.css";
-
 const Feedback = ({ feedbacks, totalFeedback }) => {
     
     return(<ul>

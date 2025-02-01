@@ -1,4 +1,3 @@
-import { css } from "./Description.module.css";
 const Description = () => {
     return(<>
         <h1>Sip Happens Café</h1>
